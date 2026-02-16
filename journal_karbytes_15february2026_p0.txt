@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_15february2026_p0.txt
  * type: plain-text
- * date: 15_FEBRUARY_2026
+ * date: 16_FEBRUARY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -10,18 +10,18 @@ A spindle of ten 25-gigabyte M_DISCs costs approximately $40 (in total (includin
 
 A spindle of ten 25-gigabyte M_DISCs yields approximately two sets of the following “complete” karbytes file collection (as of the finalization date of karbytes2026_0 (i.e. “karbytes_nexus_[date_string(karbytes2026_0.finalization_date,‘DDMMYYYY’)]”)):
 
-—–
+~ ~ ~ ~ ~
 
 FIVE M_DISC KARBYTES BUNDLE (first two 25-gigabyte allocations to KARBYTES)
 
-—–
+~ ~ ~ ~ ~
 
 3 x karbytes2026_0
-// karbytes2026_0 is also referred to as “karbytes_nexus_[date_string(karbytes2026_0.finalization_date,‘DDMMYYYY’)]”
+// karbytes2026_0 is also referred to as “karbytes_nexus_[date_string(karbytes2026_0.finalization_date,‘DDMMYYYY’)]”.
 // karbytes2026_0 was finalized at 11:59PM Pacific Standard Time on date_string(karbytes2026_0.finalization_date,‘DAY_MONTH_YEAR’).
 
 2 x karbytes2025_22
-// karbytes2025_22 is also referred to as “karbytes_origins_[31dec2025]“
+// karbytes2025_22 is also referred to as “karbytes_origins_[31dec2025]“.
 // karbytes2025_22 was finalized at 11:59PM Pacific Standard Time on 31_DECEMBER_2025.
 
-—–
+~ ~ ~ ~ ~
